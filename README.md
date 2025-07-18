@@ -1,7 +1,7 @@
 
 # React + Vite
 
-![Painting Wing](./public/WhatsApp%20Image%202025-07-18%20at%2013.11.27%20c608947c.jpg)
+![Painting Wing](./public/WhatsApp Image 2025-07-18 at 13.11.27_c608947c.jpg)
 
 This project showcases a creative visual of a laptop screen displaying a website, with the website content scrollable using the mouse wheel. Built with React and Vite utilizing Three.js (`@react-three/fiber`) for 3D rendering.
 
